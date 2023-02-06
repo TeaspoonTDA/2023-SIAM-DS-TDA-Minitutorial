@@ -1,6 +1,6 @@
-#  Data Driven Analysis of Dynamical Systems with Topological Data Analysis
+#  Topological Signal Processing for Dynamical Systems
 
-This repository contains the content for a minitutorial for the [2023 SIAM Conference on Applications of Dynamical Systems (DS23)](https://www.siam.org/conferences/cm/conference/ds23). 
+This repository contains the content for a [minitutorial](https://www.siam.org/conferences/cm/program/minitutorials/ds23-minitutorials) for the [2023 SIAM Conference on Applications of Dynamical Systems (DS23)](https://www.siam.org/conferences/cm/conference/ds23). 
 
 - [Part I Information](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75586)
 - [Part II Information](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=77160)
