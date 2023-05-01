@@ -54,3 +54,10 @@ List of suggested topics to cover (not in order right now). We might need to par
         ii. CROCKER plots
 3. Stochastic dynamical systems (at the end, maybe)
     a. Stochastic bifurcations using TDA.
+
+4. Danielle - Talk about how to contribute, opening tickets, more info, etc
+
+
+## Internal planning:
+
+- Customizing RISE slide style: https://rise.readthedocs.io/en/stable/customize.html#how-to-customize
