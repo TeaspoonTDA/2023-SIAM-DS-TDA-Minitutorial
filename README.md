@@ -24,24 +24,33 @@ This mini-tutorial will cover the basics of each piece of the aforementioned pip
 ### Session 1: Persistent Homology Basics
 
 1. Introduction, Simplicial complexes & Homology (Liz starts slides, 20 minutes)
+   - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-1-Intro_SimplicialCpx_Homology.ipynb)
    - Jupyter notebook (20 min)
 2. Persistent homology (10 min)
+   - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-2-PersistentHomology.ipynb) 
    - Jupyter notebook (20 min)
 3. Flavors of persistence: Rips & Images (20 min)
+   - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-3-PersistencePipelines.ipynb)
    - Jupyter notebook (2o min, Sunia creating)
 4. Distances on persistence diagrams & Vectorization (10 min)
+   - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-4-DistancesAndVectorization.ipynb) 
    
 ### Session 2: Using Persistence for Signal Processing
 
 1. Embedding of Time series (20 min)
+   - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-1-Embedding.ipynb)
    - Jupyter notebook, focus on persistence examples (20 min)
    - Shows different behaviors like chaotic/periodic with persistence outputs
 2. Graph representations of time series (20 min)
+   - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-2-GraphTimeSeries.ipynb)
    - Jupyter notebook (20 min, Max has started)
 3. Crocker plots (10 min)
+   - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-3-CrockerPlots.ipynb) 
    - Jupyter notebook (10 min)
 4. Stochastics (10 min, Sunia)
+   - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-4-Stochastics.ipynb) 
 5. Teaspoon contribution (10 min; Danielle)
+   - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-5-ContributionAndConclusion.ipynb) 
 
 
 
