@@ -21,41 +21,28 @@ This mini-tutorial will cover the basics of each piece of the aforementioned pip
 ## Schedule 
 
 
-List of suggested topics to cover (not in order right now). We might need to pare the list down.
+### Session 1: Persistent Homology Basics
 
-1. TDA background (ideally (partially) flipped, this will save tremendous time during the workshop, and can be reused in a TDA course, or to teach new students TDA during the course’s off-semesters):
-  a. Types of input data:
-    i. Time series (real function)
-    ii. Images (matrix data)
-  b. Introduction to Topology
-  c. Complexes
-    i. Ripser-Vioteris
-    ii. Cubical
-  d. Homology
-  e. Persistent homology
-    i. Stability theory
-    ii. Distances between persistence diagrams
-  f. The different flavors of persistence
-    i. Sublevel persistence
-    ii. Point cloud persistence.	
-2. Deterministic dynamical systems
-    a. Systems with known model: Time series with all states known, focus on available TDA tools for looking at the shape of the attractor (if an attractor is present)
-    b. Systems whose model is unknown/complicated: discuss Takens embedding, and then apply TDA to the resulting embedding.
-        i. Finding the dimension using classical tools such as FNN
-        ii. Finding the delay using classical tools such as autocorrelation function, and the mutual information function
-        iii. Discuss more recent tools from our work for finding delay and dimension?
-        iv. The only tools we have right now rely on estimating the delay and the dimension separately. There’s a case made in the literature to estimating both simultaneously. Two methods that I’ve been wanting a subset of the students to learn and code (I don’t think they will take more than a week or less) are:
-            1. False nearest strands (an improvement to FNN algorithm)
-            2. Pecora’s method to simultaneously estimate the delay and the dimension.	
-        v. SW1PERS
-    c. Graph representations of dynamical systems
-    d. Two-state classification of dynamical systems using TDA (chaos versus periodic):
-        i. Zigzag persistence
-        ii. CROCKER plots
-3. Stochastic dynamical systems (at the end, maybe)
-    a. Stochastic bifurcations using TDA.
+1. Introduction, Simplicial complexes & Homology (Liz starts slides, 20 minutes)
+   - Jupyter notebook (20 min)
+2. Persistent homology (10 min)
+   - Jupyter notebook (20 min)
+3. Flavors of persistence: Rips & Images (20 min)
+   - Jupyter notebook (2o min, Sunia creating)
+4. Distances on persistence diagrams & Vectorization (10 min)
+   
+### Session 2: Using Persistence for Signal Processing
 
-4. Danielle - Talk about how to contribute, opening tickets, more info, etc
+1. Embedding of Time series (20 min)
+   - Jupyter notebook, focus on persistence examples (20 min)
+   - Shows different behaviors like chaotic/periodic with persistence outputs
+2. Graph representations of time series (20 min)
+   - Jupyter notebook (20 min, Max has started)
+3. Crocker plots (10 min)
+   - Jupyter notebook (10 min)
+4. Stochastics (10 min, Sunia)
+5. Teaspoon contribution (10 min; Danielle)
+
 
 
 ## Internal planning:
