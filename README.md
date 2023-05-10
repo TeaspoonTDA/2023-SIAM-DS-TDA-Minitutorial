@@ -4,6 +4,7 @@ This repository contains the content for a [minitutorial](https://www.siam.org/c
 
 - [Part I Information](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75586): 1:20-3:20PM 
 - [Part II Information](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=77160): 4:45-6:45PM
+- Both sessions in Lloyd Center Ballroom - 1st Level
 
 Contributors to this minitutorial are:
 
@@ -25,10 +26,10 @@ This mini-tutorial will cover the basics of each piece of the aforementioned pip
 ### Session 1: Persistent Homology Basics
 
 0. Welcome Remarks and Introduction
-   - Slides
+   - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-0-Welcome.ipynb)
    - Presenter: Firas Khasawneh & Liz Munch
 1. Simplicial complexes & Homology (20 minutes)
-   - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-1-Intro_SimplicialCpx_Homology.ipynb)
+   - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-1-SimplicialCpx_Homology.ipynb)
    - Jupyter notebook (20 min)
    - Presenter: Liz Munch
 2. Persistent homology (10 min)
@@ -43,6 +44,7 @@ This mini-tutorial will cover the basics of each piece of the aforementioned pip
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-4-DistancesAndVectorization.ipynb)
    - Presenter: Danielle Barnes
 5. Session 1 Wrap up
+   - Slides
    - Presenter: Firas Khasawneh
    
 ### Session 2: Using Persistence for Signal Processing
@@ -65,13 +67,9 @@ This mini-tutorial will cover the basics of each piece of the aforementioned pip
 4. Stochastics (10 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-4-Stochastics.ipynb)
    - Presenter: Sunia Tanweer
-5. Teaspoon contribution (10 min; Danielle)
+5. Teaspoon contribution (10 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-5-ContributionAndConclusion.ipynb) 
    - Presenter: Danielle Barnes
 6. Session 2 Wrap up
+   - Slides
    - Presenter: Liz Munch
-
-
-## Internal planning:
-
-- Customizing RISE slide style: https://rise.readthedocs.io/en/stable/customize.html#how-to-customize
