@@ -30,27 +30,27 @@ This mini-tutorial will cover the basics of each piece of the aforementioned pip
    - Presenter: Firas Khasawneh & Liz Munch
 1. Simplicial complexes & Homology (20 minutes)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-1-SimplicialCpx_Homology.ipynb)
-   - Jupyter notebook (20 min)
+   - [Jupyter notebook](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-1-Wkst-Intro_SimplicialCpx_Homology.ipynb) (20 min)
    - Presenter: Liz Munch
 2. Persistent homology (10 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-2-PersistentHomology.ipynb) 
-   - Jupyter notebook (20 min)
+   - [Jupyter notebook](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-2-Wkst-PersistentHomology.ipynb) (20 min)
    - Presenter: Liz Munch
-3. Flavors of persistence: Rips & Images (20 min)
+3. Persistence Pipelines: Rips & Images (20 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-3-PersistencePipelines.ipynb)
-   - Jupyter notebook (20 min)
+   - [Jupyter notebook](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-3-PersistencePipelines.ipynb) (20 min)
    - Presenter: Firas Khasawneh 
 4. Distances on persistence diagrams & Vectorization (10 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-4-DistancesAndVectorization.ipynb)
    - Presenter: Danielle Barnes
 5. Session 1 Wrap up
    - Slides
-   - Presenter: Firas Khasawneh
+   - Presenter: Firas Khasawneh & Liz Munch
    
 ### Session 2: Using Persistence for Signal Processing
 
 0. Welcome Remarks and Introduction
-   - Slides
+   - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-0-Welcome.ipynb)
    - Presenter: Firas Khasawneh & Liz Munch
 1. Embedding of Time series (20 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-1-Embedding.ipynb)
@@ -71,5 +71,5 @@ This mini-tutorial will cover the basics of each piece of the aforementioned pip
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-5-ContributionAndConclusion.ipynb) 
    - Presenter: Danielle Barnes
 6. Session 2 Wrap up
-   - Slides
-   - Presenter: Liz Munch
+   - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-6-Wrapup.ipynb)
+   - Presenter: Firas Khasawneh & Liz Munch
