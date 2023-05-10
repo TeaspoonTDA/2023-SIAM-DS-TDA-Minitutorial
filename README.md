@@ -25,51 +25,51 @@ This mini-tutorial will cover the basics of each piece of the aforementioned pip
 
 ### Session 1: Persistent Homology Basics
 
-0. Welcome Remarks and Introduction
+0. Welcome Remarks and Introduction (5 minutes)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-0-Welcome.ipynb)
    - Presenter: Firas Khasawneh & Liz Munch
-1. Simplicial complexes & Homology (20 minutes)
+1. Simplicial complexes & Homology (30 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-1-SimplicialCpx_Homology.ipynb)
-   - [Jupyter notebook](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-1-Wkst-Intro_SimplicialCpx_Homology.ipynb) (20 min)
+   - [Jupyter notebook](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-1-Wkst-Intro_SimplicialCpx_Homology.ipynb) 
    - Presenter: Liz Munch
-2. Persistent homology (10 min)
+2. Persistent homology (30 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-2-PersistentHomology.ipynb) 
-   - [Jupyter notebook](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-2-Wkst-PersistentHomology.ipynb) (20 min)
+   - [Jupyter notebook](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-2-Wkst-PersistentHomology.ipynb) 
    - Presenter: Liz Munch
-3. Persistence Pipelines: Rips & Images (20 min)
+3. Persistence Pipelines: Rips & Images (30 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-3-PersistencePipelines.ipynb)
-   - [Jupyter notebook](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-3-PersistencePipelines.ipynb) (20 min)
+   - [Jupyter notebook](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-3-PersistencePipelines.ipynb) 
    - Presenter: Firas Khasawneh 
 4. Distances on persistence diagrams & Vectorization (10 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-4-DistancesAndVectorization.ipynb)
    - Presenter: Danielle Barnes
-5. Session 1 Wrap up
+5. Session 1 Wrap up (5 minutes)
    - Slides
    - Presenter: Firas Khasawneh & Liz Munch
    
 ### Session 2: Using Persistence for Signal Processing
 
-0. Welcome Remarks and Introduction
+0. Welcome Remarks and Introduction (5 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-0-Welcome.ipynb)
    - Presenter: Firas Khasawneh & Liz Munch
-1. Embedding of Time series (20 min)
+1. Embedding of Time series (40 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-1-Embedding.ipynb)
-   - Jupyter notebook (20 min)
+   - [Jupyter notebook](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-1-Wkst-Embedding.ipynb)
    - Presenter: Max Chumley
-2. Graph representations of time series (20 min)
+2. Graph representations of time series (30 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-2-GraphTimeSeries.ipynb)
-   - Jupyter notebook (20 min)
+   - Jupyter notebook 
    - Presenter: Max Chumley
-3. Crocker plots (10 min)
+3. Crocker plots (20 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-3-CrockerPlots.ipynb) 
-   - Jupyter notebook (10 min)
+   - Jupyter notebook 
    - Presenter: Sunia Tanweer
 4. Stochastics (10 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-4-Stochastics.ipynb)
    - Presenter: Sunia Tanweer
-5. Teaspoon contribution (10 min)
+5. Teaspoon contribution (5 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-5-ContributionAndConclusion.ipynb) 
    - Presenter: Danielle Barnes
-6. Session 2 Wrap up
+6. Session 2 Wrap up (5 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-6-Wrapup.ipynb)
    - Presenter: Firas Khasawneh & Liz Munch
