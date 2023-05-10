@@ -2,15 +2,16 @@
 
 This repository contains the content for a [minitutorial](https://www.siam.org/conferences/cm/program/minitutorials/ds23-minitutorials) for the [2023 SIAM Conference on Applications of Dynamical Systems (DS23)](https://www.siam.org/conferences/cm/conference/ds23). 
 
-- [Part I Information](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75586)
-- [Part II Information](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=77160)
+- [Part I Information](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75586): 1:20-3:20PM 
+- [Part II Information](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=77160): 4:45-6:45PM
 
 Contributors to this minitutorial are:
 
 - [Firas Khasawneh](firaskhasawneh.com)
 - [Elizabeth Munch](elizabethmunch.com)
-- [Max Chumley](https://www.linkedin.com/in/max-chumley)
+- [Max Chumley](maxchumley.com)
 - [Danielle Barnes](https://github.com/barnesd8) 
+- [Sunia Tanweer](stanweer1.github.io)
 
 ## Abstract
 
@@ -23,35 +24,52 @@ This mini-tutorial will cover the basics of each piece of the aforementioned pip
 
 ### Session 1: Persistent Homology Basics
 
-1. Introduction, Simplicial complexes & Homology (Liz starts slides, 20 minutes)
+0. Welcome Remarks and Introduction
+   - Slides
+   - Presenter: Firas Khasawneh & Liz Munch
+1. Simplicial complexes & Homology (20 minutes)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-1-Intro_SimplicialCpx_Homology.ipynb)
    - Jupyter notebook (20 min)
+   - Presenter: Liz Munch
 2. Persistent homology (10 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-2-PersistentHomology.ipynb) 
    - Jupyter notebook (20 min)
+   - Presenter: Liz Munch
 3. Flavors of persistence: Rips & Images (20 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-3-PersistencePipelines.ipynb)
-   - Jupyter notebook (2o min, Sunia creating)
+   - Jupyter notebook (20 min)
+   - Presenter: Firas Khasawneh 
 4. Distances on persistence diagrams & Vectorization (10 min)
-   - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-4-DistancesAndVectorization.ipynb) 
+   - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-4-DistancesAndVectorization.ipynb)
+   - Presenter: Danielle Barnes
+5. Session 1 Wrap up
+   - Presenter: Firas Khasawneh
    
 ### Session 2: Using Persistence for Signal Processing
 
+0. Welcome Remarks and Introduction
+   - Slides
+   - Presenter: Firas Khasawneh & Liz Munch
 1. Embedding of Time series (20 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-1-Embedding.ipynb)
-   - Jupyter notebook, focus on persistence examples (20 min)
-   - Shows different behaviors like chaotic/periodic with persistence outputs
+   - Jupyter notebook (20 min)
+   - Presenter: Max Chumley
 2. Graph representations of time series (20 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-2-GraphTimeSeries.ipynb)
-   - Jupyter notebook (20 min, Max has started)
+   - Jupyter notebook (20 min)
+   - Presenter: Max Chumley
 3. Crocker plots (10 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-3-CrockerPlots.ipynb) 
    - Jupyter notebook (10 min)
-4. Stochastics (10 min, Sunia)
-   - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-4-Stochastics.ipynb) 
+   - Presenter: Sunia Tanweer
+4. Stochastics (10 min)
+   - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-4-Stochastics.ipynb)
+   - Presenter: Sunia Tanweer
 5. Teaspoon contribution (10 min; Danielle)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-5-ContributionAndConclusion.ipynb) 
-
+   - Presenter: Danielle Barnes
+6. Session 2 Wrap up
+   - Presenter: Liz Munch
 
 
 ## Internal planning:
