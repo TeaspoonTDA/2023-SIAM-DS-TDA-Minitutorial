@@ -1,9 +1,9 @@
 #  Topological Signal Processing for Dynamical Systems
 
-This repository contains the content for a [minitutorial](https://www.siam.org/conferences/cm/program/minitutorials/ds23-minitutorials) for the [2023 SIAM Conference on Applications of Dynamical Systems (DS23)](https://www.siam.org/conferences/cm/conference/ds23). 
+This repository contains the content for a [minitutorial](https://www.siam.org/conferences/cm/program/minitutorials/ds23-minitutorials) for the [2023 SIAM Conference on Applications of Dynamical Systems (DS23)](https://www.siam.org/conferences/cm/conference/ds23). **If you're planning to attend the minitutorial, please see [the instructions below](#accessing-the-content) for some setup that will help get us up and running faster.**
 
-- [Part I Information](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75586): 1:20-3:20PM 
-- [Part II Information](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=77160): 4:45-6:45PM
+- [Part I Information](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75586): Mon May 15, 1:20-3:20PM 
+- [Part II Information](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=77160): Mon May 15 4:45-6:45PM
 - Both sessions in Lloyd Center Ballroom - 1st Level
 
 Contributors to this minitutorial are:
