@@ -64,7 +64,7 @@ This mini-tutorial will cover the basics of each piece of the aforementioned pip
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-3-CrockerPlots.ipynb) 
    - Jupyter notebook 
    - Presenter: Sunia Tanweer
-4. Identifying Phenomenological Bifurcations (P-bifurcations) in Stochastic Dynamical Systems (10 min)
+4. Identifying P-bifurcations in Stochastic Systems (10 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-4-Stochastics.ipynb)
    - Presenter: Sunia Tanweer
 5. Contributing to Teaspoon (5 min)
@@ -104,7 +104,13 @@ pip install giotto-tda
 
 #### Clone the repo
 
-You will want to clone this repository to be of use in your local machine. Assuming you already have ssh setup for GitHub (see [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) if you need additional directions) the repository can be cloned with the following command.
+You will want to clone this repository to be of use in your local machine. We list two options below for cloning the repo.
+
+##### Clone using GiHub Desktop
+The first option to clone the repository is via [GitHub Desktop](https://desktop.github.com/), which is available for Windows and macOS. After installing the app, go to *File>Clone Repository*, click the <kbd>URL<kbd> tab, and enter the repository's address. Choose where the local path for the repository, and hit <kbd>Clone<kbd>.  
+
+##### Clone using Git
+Assuming you already have ssh setup for GitHub (see [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) if you need additional directions) the repository can be cloned with the following command.
 
 ```
 git clone git@github.com:TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial.git
