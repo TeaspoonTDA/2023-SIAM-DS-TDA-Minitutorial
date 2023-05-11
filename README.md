@@ -73,3 +73,31 @@ This mini-tutorial will cover the basics of each piece of the aforementioned pip
 6. Session 2 Wrap up (5 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-6-Wrapup.ipynb)
    - Presenter: Firas Khasawneh & Liz Munch
+
+### Installing Teaspoon
+
+Since this minitutorial is based on various computational methods and software packages, you can either install the required packages locally, or use the provided jupyter servers to participate in the workshop.  If you choose to install locally, we ask that you do so before the tutorial.  We will be able to provide limited troubleshooting for installs, so if you are encountering issues we recommend you use the provided jupyter servers.  If you are using the servers, you will also need a GitHub account to authenticate.
+
+#### Create a GitHub Account
+
+Please follow the [GitHub signup instructions](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account).
+
+#### Server Login Information
+
+To run your computations on a provided Jupyter Server, choose initially login choosing one of the URL's below as instructed:
+
+[Server 1](https://github.com/TeaspoonTDA/teaspoon)
+[Server 2](https://github.com/TeaspoonTDA/teaspoon)
+[Server 3](https://github.com/TeaspoonTDA/teaspoon)
+
+Note:  These links will not work until the minitutorial begins and currently redirect the teaspoon repository.
+
+#### Local Install
+
+To install [teaspoon](https://github.com/TeaspoonTDA/teaspoon) locally, please follow the directions provided in [Getting Started](https://teaspoontda.github.io/teaspoon/installation.html#).  There are two system dependencies, [cmake](https://cmake.org/install/) and [boost for unix](https://www.boost.org/doc/libs/1_66_0/more/getting_started/unix-variants.html) or [boost for windows](https://www.boost.org/doc/libs/1_62_0/more/getting_started/windows.html), that are required.  While we make every effort to ensure compatibility across operating systems, we cannot guarantee you will not encounter install issues.
+
+In addition to teaspoon, RISE and giotto-tda are required for use of the slide decks and specific portions of the minitutorial.  Once system dependencies are installed, to install the required python packages you should be able to run:
+
+``` pip install teaspoon
+pip install RISE
+pip install giotto-tda```.
