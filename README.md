@@ -86,9 +86,9 @@ Please follow the [GitHub signup instructions](https://docs.github.com/en/get-st
 
 To run your computations on a provided Jupyter Server, choose initially login choosing one of the URL's below as instructed:
 
-[Server 1](https://github.com/TeaspoonTDA/teaspoon)
-[Server 2](https://github.com/TeaspoonTDA/teaspoon)
-[Server 3](https://github.com/TeaspoonTDA/teaspoon)
+- [Server 1](https://github.com/TeaspoonTDA/teaspoon)
+- [Server 2](https://github.com/TeaspoonTDA/teaspoon)
+- [Server 3](https://github.com/TeaspoonTDA/teaspoon)
 
 Note:  These links will not work until the minitutorial begins and currently redirect the teaspoon repository.
 
