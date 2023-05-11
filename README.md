@@ -10,7 +10,7 @@ Contributors to this minitutorial are:
 
 - [Firas Khasawneh](firaskhasawneh.com)
 - [Elizabeth Munch](elizabethmunch.com)
-- [Max Chumley](maxchumley.com)
+- [Max Chumley](https://www.maxchumley.com)
 - [Danielle Barnes](https://github.com/barnesd8) 
 - [Sunia Tanweer](stanweer1.github.io)
 
