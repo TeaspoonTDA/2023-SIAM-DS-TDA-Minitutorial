@@ -107,7 +107,7 @@ pip install giotto-tda
 You will want to clone this repository to be of use in your local machine. We list two options below for cloning the repo.
 
 ##### Clone using GiHub Desktop
-The first option to clone the repository is via [GitHub Desktop](https://desktop.github.com/), which is available for Windows and macOS. After installing the app, go to *File>Clone Repository*, click the <kbd>URL<kbd> tab, and enter the repository's address. Choose where the local path for the repository, and hit <kbd>Clone<kbd>.  
+The first option to clone the repository is via [GitHub Desktop](https://desktop.github.com/), which is available for Windows and macOS. After installing the app, go to *File>Clone Repository*, click the <kbd>URL</kbd> tab, and enter the repository's address. Choose where the local path for the repository, and hit <kbd>Clone</kbd>.  
 
 ##### Clone using Git
 Assuming you already have ssh setup for GitHub (see [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) if you need additional directions) the repository can be cloned with the following command.
