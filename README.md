@@ -84,13 +84,15 @@ Please follow the [GitHub signup instructions](https://docs.github.com/en/get-st
 
 #### Server Login Information
 
-To run your computations on a provided Jupyter Server, choose initially login choosing one of the URL's below as instructed:
+To run your computations on a provided Jupyter Server, login by choosing one of the URL's below as instructed:
 
 - [Server 1](https://github.com/TeaspoonTDA/teaspoon)
 - [Server 2](https://github.com/TeaspoonTDA/teaspoon)
 - [Server 3](https://github.com/TeaspoonTDA/teaspoon)
 
-Note:  These links will not work until the minitutorial begins and currently redirect the teaspoon repository.
+You must use the same URL to login for the full minitutorial since these are specific servers where your work will be located.  At the end of the conference, you will also need to download your work as the servers will not be available after the conference ends.
+
+**Note:**  These links will not work until the minitutorial begins and currently redirect the teaspoon repository.
 
 #### Local Install
 
