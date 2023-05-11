@@ -8,11 +8,11 @@ This repository contains the content for a [minitutorial](https://www.siam.org/c
 
 Contributors to this minitutorial are:
 
-- [Firas Khasawneh](firaskhasawneh.com)
-- [Elizabeth Munch](elizabethmunch.com)
+- [Firas Khasawneh](https://firaskhasawneh.com)
+- [Elizabeth Munch](https://elizabethmunch.com)
 - [Max Chumley](https://www.maxchumley.com)
 - [Danielle Barnes](https://github.com/barnesd8) 
-- [Sunia Tanweer](stanweer1.github.io)
+- [Sunia Tanweer](https://stanweer1.github.io)
 
 ## Abstract
 
@@ -74,16 +74,14 @@ This mini-tutorial will cover the basics of each piece of the aforementioned pip
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-6-Wrapup.ipynb)
    - Presenter: Firas Khasawneh & Liz Munch
 
-
 ## Accessing the content
 
-This minitutorial will be run in an active learning style. We will present basic introductions to the concepts followed by time to try out examples provided in the jupyter notebooks in this github repository.  We highly recommend that you bring a laptop to the workshop. If at all possible, we also recommend the following the below instructions in advance in case of issues. We will have two ways to access the content during the workshop itself:
-- Locally installed on your machine. You will need to clone the repository and get the code installed in advance. Unfortunately we cannot provide much in the way of install help due to the size and nature of the workshop. So, if local install doesn't work, we have providied.....
+This minitutorial will be run in an active learning style. We will present basic introductions to the concepts followed by time to try out examples provided in the Jupyter notebooks in this GitHub repository.  We highly recommend that you bring a laptop to the workshop. If at all possible, we also recommend following the below instructions in advance in case of issues. We will have two ways to access the content during the workshop itself:
+
+- Locally installed on your machine. You will need to clone the repository and get the code installed in advance. Unfortunately we cannot provide much in the way of install help due to the size and nature of the workshop. So, if local install doesn't work, we have provided.....
 - Remote servers where you will be able to access all the material during the workshop. Please note that these servers will only be active during the workshop itself. 
 
-Note that the remove version will require a github account, so we recommend making one in advance in case of issues, even if planning to run the code locally.
-
-
+Note that the remove version will require a GitHub account, so we recommend making one in advance in case of issues, even if planning to run the code locally.
 
 ### Local Install Instructions
 
@@ -91,31 +89,30 @@ Note that the remove version will require a github account, so we recommend maki
 
 To install [teaspoon](https://github.com/TeaspoonTDA/teaspoon) locally, please follow the directions provided in [Getting Started](https://teaspoontda.github.io/teaspoon/installation.html#).  There are two system dependencies:
 -  [cmake](https://cmake.org/install/) and 
--  [boost for unix](https://www.boost.org/doc/libs/1_66_0/more/getting_started/unix-variants.html) or [boost for windows](https://www.boost.org/doc/libs/1_62_0/more/getting_started/windows.html).  
+-  [boost for Unix](https://www.boost.org/doc/libs/1_66_0/more/getting_started/unix-variants.html) or [boost for Windows](https://www.boost.org/doc/libs/1_62_0/more/getting_started/windows.html).  
 
 While we make every effort to ensure compatibility across operating systems, we cannot guarantee you will not encounter install issues.
 
-In addition to teaspoon, RISE and giotto-tda are required for use of the slide decks and specific portions of the minitutorial.  Once system dependencies are installed, to install the required python packages you should be able to run:
+In addition to teaspoon, `RISE` and `giotto-tda` are required for use of the slide decks and specific portions of the minitutorial.  Once system dependencies are installed, to install the required python packages you should be able to run:
 
 ``` 
+
 pip install teaspoon
 pip install RISE
 pip install giotto-tda
 ```
+
 #### Clone the repo
 
-You will want to clone this repository to be of use in your local machine. Assuming you already have ssh setup for github (see [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) if you need additional directions) the repository can be cloned with the following command.
+You will want to clone this repository to be of use in your local machine. Assuming you already have ssh setup for GitHub (see [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) if you need additional directions) the repository can be cloned with the following command.
+
 ```
 git clone git@github.com:TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial.git
 ```
 
-
-
 ### Remote Connection Instructions
 
-
-To connect remotely, you will need to setup a github account and then at the time of the workshop, connect to a remote server. Then all code and workbooks will be run directly via web browser. 
-
+To connect remotely, you will need to setup a GitHub account and then at the time of the workshop, connect to a remote server. Then all code and workbooks will be run directly via web browser. 
 
 #### Github account creation
 
@@ -123,11 +120,11 @@ Please follow the [GitHub signup instructions](https://docs.github.com/en/get-st
 
 #### Server Login Information
 
-**Note:**  These links and instructions will not be updated until the minitutorial begins.
+**Note:** These links and instructions will not be updated until the minitutorial begins.
 
 To run your computations on a provided Jupyter Server, login by choosing one of the URL's below as instructed:
 
-- Location of future link to Server 1. 
+- Location of future link to Server 1.
 - Location of future link to Server 2.
 - Location of future link to Server 3.
 
