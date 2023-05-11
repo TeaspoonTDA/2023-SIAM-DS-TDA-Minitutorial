@@ -30,7 +30,7 @@ This mini-tutorial will cover the basics of each piece of the aforementioned pip
    - Presenter: Firas Khasawneh & Liz Munch
 1. Simplicial complexes & Homology (30 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-1-SimplicialCpx_Homology.ipynb)
-   - [Jupyter notebook](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-1-Wkst-Intro_SimplicialCpx_Homology.ipynb) 
+   - [Jupyter notebook](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-1-Wkst-SimplicialCpx_Homology.ipynb) 
    - Presenter: Liz Munch
 2. Persistent homology (30 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/1-2-PersistentHomology.ipynb) 
