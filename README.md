@@ -64,10 +64,10 @@ This mini-tutorial will cover the basics of each piece of the aforementioned pip
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-3-CrockerPlots.ipynb) 
    - Jupyter notebook 
    - Presenter: Sunia Tanweer
-4. Stochastics (10 min)
+4. Identifying Phenomenological Bifurcations (P-bifurcations) in Stochastic Dynamical Systems (10 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-4-Stochastics.ipynb)
    - Presenter: Sunia Tanweer
-5. Teaspoon contribution (5 min)
+5. Contributing to Teaspoon (5 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-5-ContributionAndConclusion.ipynb) 
    - Presenter: Danielle Barnes
 6. Session 2 Wrap up (5 min)
@@ -81,7 +81,7 @@ This minitutorial will be run in an active learning style. We will present basic
 - Locally installed on your machine. You will need to clone the repository and get the code installed in advance. Unfortunately we cannot provide much in the way of install help due to the size and nature of the workshop. So, if local install doesn't work, we have provided.....
 - Remote servers where you will be able to access all the material during the workshop. Please note that these servers will only be active during the workshop itself. 
 
-Note that the remove version will require a GitHub account, so we recommend making one in advance in case of issues, even if planning to run the code locally.
+Note that the remote version will require a GitHub account, so we recommend making one in advance in case of issues, even if planning to run the code locally.
 
 ### Local Install Instructions
 
