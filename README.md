@@ -98,6 +98,8 @@ To install [teaspoon](https://github.com/TeaspoonTDA/teaspoon) locally, please f
 
 In addition to teaspoon, RISE and giotto-tda are required for use of the slide decks and specific portions of the minitutorial.  Once system dependencies are installed, to install the required python packages you should be able to run:
 
-``` pip install teaspoon
+``` 
+pip install teaspoon
 pip install RISE
-pip install giotto-tda```.
+pip install giotto-tda
+```
