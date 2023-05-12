@@ -135,3 +135,12 @@ To run your computations on a provided Jupyter Server, login by choosing one of 
 - Location of future link to Server 3.
 
 You must use the same URL to login for the full minitutorial since these are specific servers where your work will be located.  At the end of the conference, you will also need to download your work as the servers will not be available after the conference ends.
+
+# Funding 
+
+We are grateful to the following agencies for their support of this project. 
+
+- The Air Force Office of Scientific Research under Award FA9550-22-1-0007.
+- The National Science Foundation under awards CCF-2106578, CCF-1907591, and CCF-2142713. 
+- Michigan State University 
+- The Society for Industrial and Applied Mathematics
