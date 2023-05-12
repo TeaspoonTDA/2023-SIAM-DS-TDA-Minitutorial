@@ -37,21 +37,6 @@
 }
 
 
-/* Liz trying to make two column */
-    /* https://www.w3schools.com/howto/howto_css_two_columns.asp */
-    .column {
-      float: left;
-      width: 50%;
-    }
-
-    /* Clear floats after the columns */
-    .row:after {
-      content: "";
-      display: table;
-      clear: both;
-    }
-/* end liz messing with code she doesn't understand */
-
 
 .reveal h2,
 .reveal h3,
@@ -96,6 +81,7 @@ body.rise-enabled sub {
  *********************************************/
 .column {
   float: left;
+  padding: 10px;
   width: 50%;
 }
 
@@ -105,6 +91,40 @@ body.rise-enabled sub {
   display: table;
   clear: both;
 }
+
+
+
+/* Liz trying to make two column */
+    /* https://www.w3schools.com/howto/howto_css_two_columns.asp */
+/*     .column {
+      float: left;
+      padding: 10px;
+      width: 50%;
+    }
+*/
+/* Clear floats after the columns */
+/*
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+*/
+.column30 {
+    float: left;
+    padding: 10px;
+    width: 30%;
+}
+
+.column60 {
+    float: left;
+    padding: 10px;
+    width: 60%;
+}
+
+/* end liz messing with code she doesn't understand */
+
+
 
 /*********************************************
  * Set IMAGE settings
