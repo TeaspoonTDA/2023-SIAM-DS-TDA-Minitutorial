@@ -20,6 +20,8 @@ Persistent homology, the flagship method of topological data analysis (TDA), can
 
 This mini-tutorial will cover the basics of each piece of the aforementioned pipeline, as well as show more recently studied modifications that show a great deal of promise for future analysis of dynamical systems with TDA. This tutorial will be run using active learning, with participants coding examples in python in provided Jupyter notebooks, making extensive use of the open-source package [teaspoon](https://github.com/TeaspoonTDA/teaspoon). 
 
+![](figures/big_picture.png)
+
 ## Schedule 
 
 
