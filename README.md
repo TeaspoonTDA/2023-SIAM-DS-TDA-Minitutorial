@@ -130,9 +130,8 @@ Please follow the [GitHub signup instructions](https://docs.github.com/en/get-st
 
 To run your computations on a provided Jupyter Server, login by choosing one of the URL's below as instructed:
 
-- Location of future link to Server 1.
-- Location of future link to Server 2.
-- Location of future link to Server 3.
+- [Server 1](https://9g72.short.gy/server1)
+- [Server 2](https://9g72.short.gy/server2)
 
 You must use the same URL to login for the full minitutorial since these are specific servers where your work will be located.  At the end of the conference, you will also need to download your work as the servers will not be available after the conference ends.
 
