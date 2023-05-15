@@ -58,14 +58,15 @@ This mini-tutorial will cover the basics of each piece of the aforementioned pip
    - Presenter: Max Chumley
 2. Graph representations of time series (30 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-2-GraphTimeSeries.ipynb)
-   - Jupyter notebook 
+   - [Jupyter notebook](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-2-Wkst-GraphTimeSeries.ipynb)
    - Presenter: Max Chumley
 3. Crocker plots (20 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-3-CrockerPlots.ipynb) 
-   - Jupyter notebook 
+   - [Jupyter notebook](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-3-Wkst-CrockerPlots.ipynb)
    - Presenter: Sunia Tanweer
 4. Identifying P-bifurcations in Stochastic Systems (10 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-4-Stochastics.ipynb)
+   - [Jupyter notebook](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-4-Wkst-Stochastics.ipynb)
    - Presenter: Sunia Tanweer
 5. Contributing to Teaspoon (5 min)
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-5-ContributionAndConclusion.ipynb) 
