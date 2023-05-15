@@ -68,11 +68,8 @@ This mini-tutorial will cover the basics of each piece of the aforementioned pip
    - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-4-Stochastics.ipynb)
    - [Jupyter notebook](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-4-Wkst-Stochastics.ipynb)
    - Presenter: Sunia Tanweer
-5. Contributing to Teaspoon (5 min)
-   - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-5-ContributionAndConclusion.ipynb) 
-   - Presenter: Danielle Barnes
-6. Session 2 Wrap up (5 min)
-   - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-6-Wrapup.ipynb)
+5. Session 2 Wrap up (5 min)
+   - [Slides](https://github.com/TeaspoonTDA/2023-SIAM-DS-TDA-Minitutorial/blob/main/2-5-Wrapup.ipynb)
    - Presenter: Firas Khasawneh & Liz Munch
 
 ## Accessing the content
